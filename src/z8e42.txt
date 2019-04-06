@@ -18,4 +18,3 @@ with a string of line-feeds left garbage on the screen in certain cases.
 
 Hector Peraza
 peraza@newsguy.com
-hperaza65@gmail.com
